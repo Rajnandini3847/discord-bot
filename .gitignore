@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 
 # Environment variables and credentials
+tokens/
 .env
 credentials.json
 token.pickle
